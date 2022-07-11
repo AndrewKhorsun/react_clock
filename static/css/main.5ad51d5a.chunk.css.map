@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,cAAe,CACf,iBAAkB","file":"main.5ad51d5a.chunk.css","sourcesContent":[".clock {\n  font-size: 50px;\n  text-align: center;\n  \n}\n"]}
